@@ -1,11 +1,11 @@
 import Navbar from "./components/Navbar"
-
+import Banner from "./components/Banner";
 
 const App = () => {
   return (
     <>
     <Navbar/>
-    <div>Here will be hero section</div>
+    <Banner/>
     </>
   
   );
